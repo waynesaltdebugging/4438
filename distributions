@@ -1,0 +1,7 @@
+Origin: Testing With Packages
+Label: Testing With Packages
+Codename: stretch
+Architectures: i386 amd64 arm arm64
+Components: main
+Description: Testing PPA - do not use!
+SignWith: yes

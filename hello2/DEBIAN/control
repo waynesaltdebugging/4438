@@ -1,0 +1,7 @@
+Package: elloworld
+Version: 2.0
+Maintainer: Test Man
+Architecture: all
+Description: This is a better way to say hello
+Priority: optional
+Section: misc
