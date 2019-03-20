@@ -1,0 +1,8 @@
+version: '3'
+services:
+  ppa:
+    build: .
+    ports:
+      - "55555:55555"
+  minion:
+    build: minion
